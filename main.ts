@@ -1,7 +1,9 @@
 // news-image-20261118 — sum up 18 November 2026's world news in one image.
 //
-// The entry image is prepared artwork (a burning oil tanker and a US
-// destroyer in the Strait of Hormuz at dusk, captioned "18 NOVEMBER 2026").
+// The entry image is prepared artwork (a newspaper front page for
+// Wednesday 18 November 2026: 35 stories across 6 continents, led by
+// US–Iran fire over Bahrain and Qeshm, the Crimea bridge span, and
+// Trump in Manila).
 // This program only copies it to the output directory make.fun expects,
 // so the judged artefact is exactly the prepared image.
 
